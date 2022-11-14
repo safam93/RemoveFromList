@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 19
+Specification-Title: RemoveItems
+Specification-Version: 0.0
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: RemoveItems
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Maven Integration for Eclipse
+
